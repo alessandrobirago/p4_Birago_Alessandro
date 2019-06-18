@@ -1,0 +1,20 @@
+Modifiche a srs ed sdd
+
+
+Nell'implementazione c'è una sostanziale differenza rispetto all’srs: il sistema descritto
+è un web portal, mentre quello implementato è un programma java, è stato realizzato in questo
+modo in accordo con il professore.
+
+
+Nell'implementazione ci sono alcune differenze rispetto al file sdd:
+
+1) Le parti di interfaccia grafica e salvataggio permanente su disco dei dati non erano 
+   previste, ma sono state implementate.
+
+2) Ci sono delle differenze rispetto al class diagram per quanto riguarda le tipologie di dati 
+   estratti, convertiti e normalizzati poichè abbiamo ricevuto i dati pochi giorni prima della 
+   scadenza della consegna dell'implementazione.
+
+3) Come conseguenza del punto 2) il data type Recensione che avevamo ipotizzato non è stato 
+   necessario, quindi non è stato implementato tuttavia il Convertitore è in grado di gestire 
+   correttamente le Stringhe.

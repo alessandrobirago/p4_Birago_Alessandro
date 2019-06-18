@@ -1,0 +1,6 @@
+finsastore/
+buyers_7d_com.%NOME%_201705_channel.csv
+crashes_com.%NOME%_201705_overview.csv
+installs_com.%NOME%_201705_overview.csv
+ratings_com.%NOME%_201705_overview.csv
+retained_installers_com.%NOME%_201705_channel.csv

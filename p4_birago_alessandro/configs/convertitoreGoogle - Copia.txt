@@ -1,0 +1,49 @@
+buyers_7d_com.letfreex_201705_channel.csv
+Store Listing Visitors
+Integer
+Installers
+Integer
+Buyers
+Integer
+
+crashes_com.letfreex_201705_overview.csv
+Daily Crashes
+Integer
+Daily ANRs
+Integer
+
+installs_com.letfreex_201705_overview.csv
+Daily Device Installs
+Integer
+Daily Device Uninstalls
+Integer
+Daily Device Upgrades
+Integer
+Total User Installs
+Integer
+Daily User Installs
+Integer
+Daily User Uninstalls
+Integer
+Active Device Installs
+Integer
+
+ratings_com.letfreex_201705_overview.csv
+Daily Average Rating
+Float
+Total Average Rating
+Float
+
+retained_installers_com.letfreex_201705_channel.csv
+Installers retained for 7 days
+Integer
+Installer-to-7 days retention rate
+Float
+Installers retained for 15 days
+Integer
+Installer-to-15 days retention rate
+Float
+Installers retained for 30 days
+Integer
+Installer-to-30 days retention rate
+Float

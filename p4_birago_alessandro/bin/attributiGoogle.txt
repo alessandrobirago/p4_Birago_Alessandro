@@ -1,0 +1,6 @@
+data
+TotDw
+TotRate
+DayRate
+DayInstalls
+DayCrash

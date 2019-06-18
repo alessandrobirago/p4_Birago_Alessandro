@@ -1,0 +1,5 @@
+data,key,DATE
+TotDw,sum,INT
+TotRate,avg,FLOAT
+DayRate,avg,FLOAT
+DayCrash,sum,INT

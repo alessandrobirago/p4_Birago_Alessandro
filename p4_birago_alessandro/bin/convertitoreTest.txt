@@ -1,0 +1,9 @@
+test.csv
+Store Listing Visitors
+String
+Installers
+Integer
+Buyers
+FormatoInesistente
+
+

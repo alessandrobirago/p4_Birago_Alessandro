@@ -1,0 +1,49 @@
+buyers_7d_com.letfreex_201705_channel.csv
+Store Listing Visitors
+Integer
+Install
+Integer
+Buyers
+Integer
+
+crashes_com.letfreex_201705_overview.csv
+Crashes Giornalieri
+Integer
+Daily ANRs
+Integer
+
+installs_com.letfreex_201705_overview.csv
+Device Installs Giornalieri
+Integer
+Device Uninstalls Giornalieri
+Integer
+Device Upgrades Giornalieri
+Integer
+User Installs Totali
+Integer
+User Installs Giornalieri
+Integer
+User Uninstalls Giornalieri
+Integer
+Device Installs Attivi
+Integer
+
+ratings_com.letfreex_201705_overview.csv
+Average Rating Giornaliero
+Float
+Average Rating Totale
+Float
+
+retained_installers_com.letfreex_201705_channel.csv
+Installers retained for 7 days
+Integer
+Installer-to-7 days retention rate
+Float
+Installers retained for 15 days
+Integer
+Installer-to-15 days retention rate
+Float
+Installers retained for 30 days
+Integer
+Installer-to-30 days retention rate
+Float

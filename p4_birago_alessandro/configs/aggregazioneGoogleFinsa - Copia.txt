@@ -1,0 +1,13 @@
+Date,key,DATE
+Installers,sum,INT
+DailyCrashes,sum,INT
+DailyANRs,sum,INT
+DailyDeviceInstalls,sum,INT
+DailyDeviceUninstalls,sum,INT
+TotalUserInstalls,sum,INT
+DailyUserInstalls,sum,INT
+DailyUserUninstalls,sum,INT
+DailyAverageRating,avg,FLOAT
+TotalAverageRating,avg,FLOAT
+InstallersRetainedFor30Days,sum,INT
+InstallersTo30DaysRetentionRate,avg,FLOAT

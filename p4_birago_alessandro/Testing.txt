@@ -1,0 +1,19 @@
+Testing
+
+Il testing è stato fatto sulla classe Convertitore per poter essere eseguito anche
+senza la necessità di installare MySql.
+
+
+Test funzionale
+La Test Suite dei test funzionali garantisce:
+- uno statement coverage del 78,1%
+- un branch coverage del 67,4%
+
+
+Test strutturale
+Non è stato raggiunto un coverage del 100% poichè non è stato possibile
+testare tutte le Exceptions essendo alcuni metodi della classe di tipo private.
+
+
+Nota: è consigliabile utilizzare una versione di JUnit uguale o inferiore alla
+      4.10 per la corretta esecuzione dei test

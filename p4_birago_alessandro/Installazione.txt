@@ -1,0 +1,31 @@
+Installazione
+
+
+Per importare il progetto in Eclipse seguire i comandi seguenti:
+
+
+1) Da browser scaricare il progetto cliccando da Github su download
+
+2) Aprire Eclipse
+
+3) Da Eclipse andare su File -> Import -> General -> Projects from Folder or Archive -> Directory -> [Selezionare la cartella del progetto] -> Finish
+
+4) Installare MySql Server v 5.7.18 per Ubuntu Linux 16.10 (x86, 64-bit) [download da: https://downloads.mysql.com/archives/community/ ]
+
+5) Installare MySql Workbench v 6.3.6 [download da: https://downloads.mysql.com/archives/workbench/ ]
+
+6) Eseguire su MySql Workbench la creazione di un nuovo schema, chiamandolo p4, quindi importare le tabelle dei dati facendo una nuova query contenente il testo del file p4.sql
+
+7) Per l'esecuzione  è necessario anche MySql Connector Java v 5.1.42 già presente all'interno della cartella del progetto
+
+8) Eseguire il progetto
+
+
+Note: 
+
+1) in MySql è importante impostare come username: root 
+   e come password: password
+
+2) sono disponibili dati per le app inserite a sistema tra il 01/05/2017 ed il 31/05/2017
+
+
